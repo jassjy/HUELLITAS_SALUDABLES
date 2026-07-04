@@ -1,0 +1,89 @@
+Modelo de Datos
+
+Para el desarrollo del sistema HUELLITAS SALUDABLES se propone el uso de un modelo de datos relacional, implementado en un sistema gestor de bases de datos como PostgreSQL, el cual permitirá organizar, almacenar y gestionar la información de manera estructurada y segura.
+
+El modelo de datos está compuesto por las siguientes entidades principales:
+
+#Activar o desactivar las tablas o datos apoyo de IA para control de informacion o organizacion para optimizar el tiempo
+
+Entidad Usuario
+
+Almacena la información general de las personas que interactúan con el sistema.
+Atributos:
+
+id_usuario (clave primaria)
+nombre
+correo electrónico
+contraseña
+tipo_usuario (dueño, cuidador, veterinario) #evitar el ñ o caracter especiales
+teléfono
+ubicación
+Entidad Mascota
+
+Registra la información de las mascotas asociadas a un usuario.
+Atributos:
+
+id_mascota (clave primaria)
+nombre
+especie
+raza
+edad
+id_usuario (clave foránea)
+Entidad Cuidador
+
+Contiene la información específica de los usuarios que ofrecen servicios de cuidado.
+Atributos:
+
+id_cuidador (clave primaria)
+experiencia
+disponibilidad
+tarifa
+id_usuario (clave foránea)
+Entidad Veterinario
+
+Almacena los datos de los profesionales que prestan servicios médicos para mascotas.
+Atributos:
+
+id_veterinario (clave primaria)
+especialidad
+clínica
+id_usuario (clave foránea)
+Entidad Servicio
+
+Define los tipos de servicios ofrecidos en la plataforma.
+Atributos:
+
+id_servicio (clave primaria)
+tipo_servicio (cuidado, consulta veterinaria)
+descripción
+precio
+Entidad Reserva
+
+Permite gestionar la contratación de servicios por parte de los usuarios.
+Atributos:
+
+id_reserva (clave primaria)
+fecha_inicio
+fecha_fin
+estado
+id_usuario (clave foránea)
+id_servicio (clave foránea)
+id_cuidador o id_veterinario (clave foránea)
+Entidad Calificación
+
+Registra la valoración de los servicios prestados.
+Atributos:
+
+id_calificacion (clave primaria)
+puntuación
+comentario
+id_usuario (clave foránea)
+id_servicio (clave foránea)
+Relaciones del modelo
+Un usuario puede registrar múltiples mascotas.
+Un usuario puede desempeñar el rol de cuidador o veterinario.
+Un usuario puede realizar múltiples reservas.
+Un cuidador o veterinario puede atender múltiples servicios.
+Un servicio puede recibir múltiples calificaciones.
+
+Este modelo garantiza la integridad de los datos y permite la escalabilidad del sistema.
