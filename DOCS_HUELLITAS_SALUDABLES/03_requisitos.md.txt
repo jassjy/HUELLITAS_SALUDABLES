@@ -1,0 +1,35 @@
+1).Requerimientos funcionales
+
+(Lo que el sistema debe hacer)
+
+El sistema debe permitir el registro e inicio de sesión de usuarios (dueños de mascotas y veterinarios).
+El sistema debe permitir agendar citas veterinarias en línea.
+El sistema debe permitir reservar servicios de guardería con horarios disponibles.
+El sistema debe gestionar un historial clínico digital de cada mascota.
+El sistema debe permitir al veterinario actualizar registros médicos en tiempo real.
+El sistema debe enviar notificaciones automáticas sobre citas, vacunas y novedades.
+El sistema debe incluir un chat en tiempo real entre usuario y veterinario.
+El sistema debe permitir videollamadas con el veterinario dentro de la plataforma.
+El sistema debe permitir consultar el estado de la mascota y seguimiento de salud.
+El sistema debe permitir gestionar perfiles completos de mascotas (datos, galería, dieta, rutinas).
+El sistema debe permitir realizar pagos en línea (incluyendo PSE).
+El sistema debe mostrar disponibilidad de servicios en tiempo real.
+El sistema debe permitir generar reportes de salud de la mascota.
+
+
+2).Requerimientos no funcionales
+
+(Cómo debe comportarse el sistema)
+
+El sistema debe ser seguro, protegiendo los datos personales y médicos de las mascotas.
+El sistema debe tener alta disponibilidad, permitiendo acceso en cualquier momento.
+El sistema debe ser rápido y eficiente, con tiempos de respuesta bajos.
+El sistema debe ser intuitivo y fácil de usar (buena experiencia de usuario).
+El sistema debe ser compatible con dispositivos móviles y computadores.
+El sistema debe soportar múltiples usuarios simultáneamente.
+El sistema debe ser escalable, permitiendo agregar más usuarios y funcionalidades.
+El sistema debe garantizar integridad y consistencia de los datos.
+El sistema debe tener soporte en idioma español o al requerido.
+El sistema debe permitir notificaciones en tiempo real sin retrasos significativos.
+El sistema debe ser confiable, evitando fallos durante reservas o pagos.
+El sistema debe cumplir con buenas prácticas de desarrollo web (seguridad, mantenibilidad).

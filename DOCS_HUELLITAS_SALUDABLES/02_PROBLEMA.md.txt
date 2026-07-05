@@ -1,0 +1,18 @@
+🧩 Problema
+
+"Los dueños de mascotas no cuentan con una plataforma centralizada que integre servicios veterinarios y guarderia en Colombia."
+
+#dar una nueva redacion
+
+-Tiempo perdido
+Llamadas y visitas físicas para agendar citas sin confirmación inmediata.
+
+-Confianza limitada
+Falta de transparencia en precios, disponibilidad y estado de la mascota.
+
+-Sin seguimiento
+No existe historial clínico digital accesible en cualquier momento.
+
+-Sin alertas
+Los propietarios no reciben notificaciones sobre vacunas o citas próximas.
+

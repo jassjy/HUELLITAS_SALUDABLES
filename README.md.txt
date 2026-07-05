@@ -1,7 +1,7 @@
 📦 [HUELLITAS SALUDABLES]
 
 Santiago Buitrago Goyeneche 
-Sara Jasmin Cruz
+Sara Jasmin Cruz Calderon
 Jorge Alejandro Torres Paez 
 
 
