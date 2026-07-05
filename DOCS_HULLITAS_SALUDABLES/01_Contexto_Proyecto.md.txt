@@ -1,0 +1,20 @@
+📦 [HUELLITAS SALUDABLES]
+
+👥 Integrantes
+
+JORGE ALEJANDRO TORRES PAEZ
+SANTIAGO BUITRAGO GOYENECHE
+SARA JASMIN CRUZ CALDERON
+
+CONTEXTO REALES :
+
+🎯 Descripción
+
+Desarrollar un aplicativo web para la gestión integral de servicios para mascotas que permita a los usuarios registrarse, 
+agendar citas veterinarias, acceder a servicios de vacunación, atención médica y solicitar cuidadores para sus mascotas 
+cuando el propietario se encuentre ausente, garantizando un servicio rápido, seguro y confiable en un solo lugar.
+
+#investigar una estadistica con el tema de los veterinarios y mascotas
+
+
+

@@ -1,0 +1,13 @@
+Solución propuesta
+
+La solución es desarrollar Huellitas Saludables, una plataforma web donde se puedan centralizar todos los servicios veterinarios y de guardería en un solo lugar.
+
+La idea es que los usuarios puedan agendar citas fácilmente, ver disponibilidad en tiempo real y reservar sin tener que llamar o ir presencialmente, haciendo todo mucho más rápido y práctico.
+
+También se incluye un historial clínico digital para cada mascota, donde se pueda consultar toda la información médica en cualquier momento, lo que mejora bastante el seguimiento de la salud.
+
+Además, el sistema tendrá chat y videollamadas con el veterinario, para que la comunicación sea más directa y sin necesidad de usar otras aplicaciones.
+
+Otro punto clave son las notificaciones automáticas, que van a avisar sobre citas, vacunas o cualquier novedad importante, ayudando a que el dueño esté siempre pendiente.
+
+En general, la plataforma busca hacer todo más organizado, accesible y confiable, adaptándose al contexto colombiano y facilitando la vida tanto a usuarios como a veterinarios.

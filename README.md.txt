@@ -1,5 +1,9 @@
 📦 [HUELLITAS SALUDABLES]
 
+Santiago Buitrago Goyeneche 
+Sara Jasmin Cruz
+Jorge Alejandro Torres Paez 
+
 
 📁 PLANTILLA DE ESTRUCTURA (CREA ESTO EN TU REPO)
 

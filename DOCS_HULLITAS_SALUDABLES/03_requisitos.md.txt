@@ -1,51 +1,35 @@
-- REQUISITOS FUNCIONALES (RF) — 20
+1).Requerimientos funcionales
 
-RF01. El sistema permitirá el registro público únicamente de dueños de mascotas.
+(Lo que el sistema debe hacer)
 
-RF02. El administrador podrá crear cuentas de veterinarios, cuidadores, agendadores y otros administradores autorizados.
+El sistema debe permitir el registro e inicio de sesión de usuarios (dueños de mascotas y veterinarios).
+El sistema debe permitir agendar citas veterinarias en línea.
+El sistema debe permitir reservar servicios de guardería con horarios disponibles.
+El sistema debe gestionar un historial clínico digital de cada mascota.
+El sistema debe permitir al veterinario actualizar registros médicos en tiempo real.
+El sistema debe enviar notificaciones automáticas sobre citas, vacunas y novedades.
+El sistema debe incluir un chat en tiempo real entre usuario y veterinario.
+El sistema debe permitir videollamadas con el veterinario dentro de la plataforma.
+El sistema debe permitir consultar el estado de la mascota y seguimiento de salud.
+El sistema debe permitir gestionar perfiles completos de mascotas (datos, galería, dieta, rutinas).
+El sistema debe permitir realizar pagos en línea (incluyendo PSE).
+El sistema debe mostrar disponibilidad de servicios en tiempo real.
+El sistema debe permitir generar reportes de salud de la mascota.
 
-RF03. El sistema asignará roles y permisos según el tipo de usuario.
 
-RF04. El sistema permitirá iniciar sesión mediante usuario y contraseña.
+2).Requerimientos no funcionales
 
-RF05. El dueño podrá registrar mascotas con datos básicos como nombre, raza, edad, peso y foto.
+(Cómo debe comportarse el sistema)
 
-RF06. El sistema permitirá consultar la información de las mascotas registradas.
-
-RF07. El dueño podrá solicitar citas veterinarias según disponibilidad del sistema.
-
-RF08. El agendador podrá gestionar la disponibilidad de citas y organizar la agenda de los veterinarios.
-
-RF09. El agendador podrá notificar a los veterinarios sobre sus citas, cambios y disponibilidad horaria.
-
-RF10. El veterinario podrá consultar las citas que tiene asignadas.
-
-RF11. El veterinario podrá registrar diagnósticos, tratamientos, vacunas y observaciones.
-
-RF12. El dueño podrá consultar el historial clínico de sus mascotas.
-
-RF13. El sistema permitirá reservar servicios de guardería para mascotas.
-
-RF14. El administrador podrá gestionar usuarios (excepto dueños), mascotas, citas y servicios.
-
-RF15. El sistema registrará acciones realizadas por administradores y agendadores para control y auditoría.
-
-RF16. El cuidador podrá consultar la lista de mascotas hospedadas en la guardería asignada durante su turno.
-
-RF17. El cuidador podrá registrar actividades de cuidado realizadas a las mascotas, como alimentación, recreación o descanso.
-
-RF18. El cuidador podrá consultar información sobre dietas especiales, alergias y cuidados particulares de las mascotas alojadas.
-
-RF19. El cuidador podrá reportar incidentes o emergencias relacionadas con las mascotas bajo su cuidado.
-
-RF20. El sistema permitirá registrar la entrada y salida de las mascotas en la guardería, almacenando fecha y hora de cada movimiento.
-
-- REQUISITOS NO FUNCIONALES (RNF) — 15
-
-RNF01. El sistema debe garantizar la seguridad de la información almacenada.
-
-RNF02. El acceso a la creación de usuarios administrativos, agendadores y cuidadores estará restringido únicamente a usuarios autorizados.
-
-RNF03. El sistema debe manejar autenticación segura mediante credenciales.
-
-RNF04. La información de usuarios y mascotas debe almacenarse protegiendo la privacidad de los datos.
+El sistema debe ser seguro, protegiendo los datos personales y médicos de las mascotas.
+El sistema debe tener alta disponibilidad, permitiendo acceso en cualquier momento.
+El sistema debe ser rápido y eficiente, con tiempos de respuesta bajos.
+El sistema debe ser intuitivo y fácil de usar (buena experiencia de usuario).
+El sistema debe ser compatible con dispositivos móviles y computadores.
+El sistema debe soportar múltiples usuarios simultáneamente.
+El sistema debe ser escalable, permitiendo agregar más usuarios y funcionalidades.
+El sistema debe garantizar integridad y consistencia de los datos.
+El sistema debe tener soporte en idioma español o al requerido.
+El sistema debe permitir notificaciones en tiempo real sin retrasos significativos.
+El sistema debe ser confiable, evitando fallos durante reservas o pagos.
+El sistema debe cumplir con buenas prácticas de desarrollo web (seguridad, mantenibilidad).

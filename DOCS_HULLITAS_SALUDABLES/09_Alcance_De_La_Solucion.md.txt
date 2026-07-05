@@ -1,0 +1,15 @@
+Alcance de la solución
+
+La solución Huellitas Saludables se enfoca en desarrollar un aplicativo web que permita gestionar servicios veterinarios y de guardería en un solo sistema, dirigido principalmente a dueños
+
+de mascotas y profesionales veterinarios.
+
+Dentro del alcance, el sistema permitirá agendar citas, reservar guardería, consultar historial clínico de las mascotas, recibir notificaciones y comunicarse con el veterinario mediante chat o videollamadas,
+todo desde la misma plataforma.
+
+También incluirá funciones como gestión de perfiles de mascotas, seguimiento de su estado de salud y opciones de pago en línea, adaptadas al contexto colombiano.
+
+El sistema será accesible desde navegador web en computador o celular, buscando que sea fácil de usar para cualquier tipo de usuario.
+
+Como límite, el proyecto se centra en la gestión digital de los servicios, por lo que no incluye la operación física de la veterinaria o guardería, sino únicamente su administración y comunicación a
+través de la plataforma.

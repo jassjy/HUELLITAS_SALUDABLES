@@ -2,6 +2,8 @@
 
 "Los dueños de mascotas no cuentan con una plataforma centralizada que integre servicios veterinarios y guarderia en Colombia."
 
+#dar una nueva redacion
+
 -Tiempo perdido
 Llamadas y visitas físicas para agendar citas sin confirmación inmediata.
 
